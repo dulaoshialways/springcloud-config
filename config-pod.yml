@@ -1,2 +1,2 @@
 config:
-  dev:master branch,springcloud-conig/config-prod.yml cersion=1
+  info: master branch,springcloud-conig/config-prod.yml version=1

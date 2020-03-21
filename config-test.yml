@@ -1,2 +1,2 @@
 config:
-  dev:master branch,springcloud-conig/config-test.yml cersion=1
+  info: master branch,springcloud-conig/config-test.yml version=1
